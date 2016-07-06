@@ -1,0 +1,105 @@
+.site-partners {
+    background: $white;
+    text-align: center;
+    padding-top: $gutter * 4;
+    padding-bottom: $gutter * 4;
+    position: relative;
+}
+
+@mixin partner_box($c) {
+    position: relative;
+    border: 1px solid $c;
+
+    &:before {
+        position: absolute;
+        content: "";
+        top: 2px;
+        right: 2px;
+        width: 0;
+        height: 0;
+        border-style: solid;
+        border-width: 10px 0 0 10px;
+        border-color: $c transparent transparent transparent;
+    }
+
+    .partner-link {
+        &:hover {
+            background: $almost-white;
+        }
+    }
+
+    .partner-link--become {
+        @include font-size(14);
+        display: block;
+        padding: $gutter / 2;
+        border-top: 1px dashed $c;
+        margin-top: $gutter;
+    }
+
+    h2 {
+        padding: $gutter;
+        margin: 0;
+
+        + .partner-link--become {
+            margin-top: 0;
+        }
+    }
+}
+
+.partner-diamond {
+    @include partner_box($yellow);
+}
+
+.partner-platinum {
+    @include partner_box(darken($wild-sand, 5));
+}
+
+.partner-gold {
+    @include partner_box(darken($wild-sand, 5));
+}
+
+.partner-silver {
+    @include partner_box(darken($wild-sand, 5));
+}
+
+.partner-link {
+    @include transition(none);
+    padding: $gutter;
+    display: block;
+    background: $white;
+
+}
+
+.partner-link__name {
+    @include font-size(18);
+    text-transform: none;
+}
+
+.partner-link__img {
+    width: 70%;
+}
+
+.partner-media__title {
+    padding-top: $gutter * 2;
+    padding-bottom: $gutter * 2;
+    margin-bottom: 0;
+}
+
+.partner-media-link {
+    display: inline-block;
+    margin: 0 $gutter / 2;
+    padding: $gutter;
+}
+
+.partner-media-link__name {
+    @include font-size(14);
+    text-transform: none;
+    margin-bottom: 0;
+}
+
+.partner-media-link__img {
+    height: 50px;
+    width: auto;
+    margin-bottom: 5px;
+}
+
