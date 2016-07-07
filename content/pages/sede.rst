@@ -4,6 +4,7 @@ Sede
 :slug: location
 :author: ITPUG
 :lang: it
+:status: hidden
 
 
 La nona edizione del PGDay.IT si terrà per la prima volta presso la

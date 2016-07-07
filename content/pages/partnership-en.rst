@@ -4,6 +4,7 @@ Partnership
 :slug: partnership
 :author: ITPUG
 :lang: en
+:status: hidden
 
 
 .. ERROR::

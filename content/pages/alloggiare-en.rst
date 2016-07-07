@@ -4,6 +4,7 @@ Venue
 :slug: venue
 :author: ITPUG
 :lang: en
+:status: hidden
 
 
 

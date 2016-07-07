@@ -4,7 +4,7 @@ Aiutaci
 :slug: volunteering
 :author: ITPUG
 :lang: it
-:nav: footer
+:status: hidden
 
 
 Aiutaci a promuovere il PgDay!

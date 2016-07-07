@@ -4,7 +4,7 @@ Volunteering
 :slug: volunteering
 :author: ITPUG
 :lang: en
-:nav: footer
+:status: hidden
 
 .. ERROR::
 

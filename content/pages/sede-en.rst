@@ -4,6 +4,7 @@ Location
 :slug: location
 :author: ITPUG
 :lang: en
+:status: hidden
 
 .. ERROR::
 

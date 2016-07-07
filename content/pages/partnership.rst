@@ -4,6 +4,7 @@ Partnership
 :slug: partnership
 :author: ITPUG
 :lang: it
+:status: hidden
 
 
 Il PGDay.it 2015 è la più grande opportunità per le aziende che basano il loro

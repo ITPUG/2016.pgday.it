@@ -4,6 +4,7 @@ Alloggiare
 :slug: venue
 :author: ITPUG
 :lang: it
+:status: hidden
 
 
 Alcuni Hotel e B&B facilmente raggiungibili dalla conferenza
