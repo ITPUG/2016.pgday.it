@@ -57,6 +57,7 @@ SOCIAL_EVENTS = [
         'description': 'Un menu\' per sfamare tutte le bocche, e si parla di Postgres',
     }
 ]
+'''
 EVENT_PARTNERS = {
     'diamond': [{
         'name': 'Amiga',
@@ -96,6 +97,7 @@ EVENT_PARTNERS = {
         'logo': 'logo-sponsor.png',
     }],
 }
+'''
 SOCIAL_LINKS = [
     {
         'name': 'facebook',
