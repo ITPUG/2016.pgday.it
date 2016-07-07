@@ -106,7 +106,51 @@ $ pelican
 
 ### Traduzione dei template
 
-TODO
+
+E' possibile, anzi e' un dovere, tradurre tutte le stringhe del
+sito che non appartengono al contenuto di una pagina.
+
+Ad esempio, i titoli delle sezioni della homepage sono tutte
+stringhe da tradurre.
+
+La traduzione avviene in 3 passaggi:
+
+* Estrazione delle stringhe marcate per la traduzione
+* Traduzione vera e propria
+* Compilazione delle stringhe tradotte
+
+#### Estrazione delle stringhe da tradurre
+
+Posizionarsi nella cartella root del progetto ed eseguire:
+
+```
+./update_translations.sh
+```
+
+#### Traduzione vera e propria
+
+Modificare i file:
+
+```
+$ awesomeconference_theme/translations/it/LC_MESSAGES/messages.po # per l'italiano
+$ awesomeconference_theme/translations/en/LC_MESSAGES/messages.po # per l'inglese
+```
+
+Aggiungendo o modificando le traduzioni
+
+#### Compilazione delle stringhe tradotte
+
+Posizionarsi nella cartella root del progetto ed eseguire:
+
+```
+./compile_translations.sh
+```
+
+Generare di nuovo il sito per controllare.
+
+Ricordarsi infine di aggiungere al repository sia i file sorgente
+(``.pot`` e ``.po``) sia i file compilati (``.mo``).
+
 
 ### Contribuire sul frontend (stili css e template)
 
