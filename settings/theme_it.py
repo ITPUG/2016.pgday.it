@@ -108,12 +108,12 @@ SOCIAL_LINKS = [
         'hide_name': True,
     }, {
         'name': 'twitter',
-        'url': 'https://www.twitter.com/',
+        'url': 'https://twitter.com/PGDayIT',
         'icon': 'twitter',
         'hide_name': True,
     }, {
         'name': 'google plus',
-        'url': 'https://www.google.com/',
+        'url': 'https://plus.google.com/114060631874544975126',
         'icon': 'google-plus',
         'hide_name': True,
     },
