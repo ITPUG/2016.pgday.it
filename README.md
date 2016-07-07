@@ -11,15 +11,21 @@ Consigliamo di creare un ambiente virtuale python e utilizzare quello
 come ambiente di sviluppo.
 
 ```
-$ mkvirtualenv -p python3 env_name  # se si usa virtualenvwrapper
-$ virtualenv3 env_name              # se non si usa virtualenvwrapper
+$ mkvirtualenv -p python3 pgday_www  # se si usa virtualenvwrapper
+$ virtualenv3 pgday_www              # se non si usa virtualenvwrapper
+```
+
+Su Debian può essere necessario indicare il path completo di Python:
+
+```
+$ mkvirtualenv -p /usr/bin/python3 pgday_www
 ```
 
 Attivare il virtualenv con
 
 ```
-$ workon env_name          # se si usa virtualenvwrapper
-$ . env_name/bin/activate  # se non si usa virtualenvwrapper
+$ workon pgday_www          # se si usa virtualenvwrapper
+$ . pgday_www/bin/activate  # se non si usa virtualenvwrapper
 ```
 
 Installare le dipendenze con
@@ -28,7 +34,7 @@ Installare le dipendenze con
 $ pip install -r pip_requirements
 ```
 
-verificare che tutto funzioni con
+Verificare che tutto funzioni con
 
 ```
 $ pelican
