@@ -2,7 +2,7 @@ Programma
 #########
 
 :slug: schedule
-:author: carloratm
+:author: ITPUG
 :lang: it
 :template: schedule
 

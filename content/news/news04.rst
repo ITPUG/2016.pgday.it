@@ -1,7 +1,7 @@
 News di prova 04
 ################
 
-:author: carloratm
+:author: ITPUG
 :lang: it
 
 

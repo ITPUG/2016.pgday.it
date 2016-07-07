@@ -2,7 +2,7 @@ Codice di Condotta
 ##################
 
 :slug: coc
-:author: carloratm
+:author: ITPUG
 :lang: it
 :nav: footer
 

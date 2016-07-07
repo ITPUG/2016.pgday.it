@@ -2,7 +2,7 @@ Partnership
 ###########
 
 :slug: partnership
-:author: carloratm
+:author: ITPUG
 :lang: en
 
 

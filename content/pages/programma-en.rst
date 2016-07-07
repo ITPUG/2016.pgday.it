@@ -2,7 +2,7 @@ Schedule
 ########
 
 :slug: schedule
-:author: carloratm
+:author: ITPUG
 :lang: en
 :template: schedule
 

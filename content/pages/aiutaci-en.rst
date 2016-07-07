@@ -2,7 +2,7 @@ Volunteering
 ############
 
 :slug: volunteering
-:author: carloratm
+:author: ITPUG
 :lang: en
 :nav: footer
 

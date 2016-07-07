@@ -2,7 +2,7 @@ Aiutaci
 #######
 
 :slug: volunteering
-:author: carloratm
+:author: ITPUG
 :lang: it
 :nav: footer
 

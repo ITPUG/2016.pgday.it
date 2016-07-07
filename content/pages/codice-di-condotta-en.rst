@@ -2,7 +2,7 @@ Code of Conduct
 ###############
 
 :slug: coc
-:author: carloratm
+:author: ITPUG
 :lang: en
 :nav: footer
 

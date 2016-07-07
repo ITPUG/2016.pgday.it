@@ -2,7 +2,7 @@ Cheastsheet
 ###########
 
 :slug: cheatsheet
-:author: carloratm
+:author: ITPUG
 :lang: it
 :status: hidden
 

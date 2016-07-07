@@ -1,7 +1,7 @@
 News di prova 01
 ################
 
-:author: carloratm
+:author: ITPUG
 :lang: en
 
 

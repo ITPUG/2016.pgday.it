@@ -2,7 +2,7 @@ Location
 ########
 
 :slug: location
-:author: carloratm
+:author: ITPUG
 :lang: en
 
 .. ERROR::

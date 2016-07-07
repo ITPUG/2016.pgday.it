@@ -2,7 +2,7 @@ Sede
 ####
 
 :slug: location
-:author: carloratm
+:author: ITPUG
 :lang: it
 
 

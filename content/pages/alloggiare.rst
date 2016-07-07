@@ -2,7 +2,7 @@ Alloggiare
 ##########
 
 :slug: venue
-:author: carloratm
+:author: ITPUG
 :lang: it
 
 

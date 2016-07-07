@@ -1,7 +1,7 @@
 News di prova 03
 ################
 
-:author: carloratm
+:author: ITPUG
 :lang: it
 
 
