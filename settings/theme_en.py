@@ -17,27 +17,6 @@ Stay tuned to get news and follow the progress.
 'COPYRIGHT': '''© Copyright 2008-2016 Italian PostgreSQL Users Group<br>
 VAT: 02099540979 / Tax Code: 92074760486
 ''',
-'SOCIAL_EVENTS': [
-    {
-        'title': 'pg_beer',
-        'when': 'Thursday 16, 18:00',
-        'where': 'Camelot 3.0',
-        'map': 'https://www.google.it/maps',
-        'description': 'A beer kindly offered by carlo',
-    }, {
-        'title': 'pg_beer',
-        'when': 'Friday 17, 18:00',
-        'where': 'Camelot 3.0',
-        'map': 'https://www.google.it/maps',
-        'description': 'To drink all together and talk about Postgres',
-    }, {
-        'title': 'pg_dinner',
-        'when': 'Friday 17 - 20:00',
-        'where': 'Pizzeria da Peppino',
-        'map': 'https://www.google.it/maps',
-        'description': 'A menu to feed al mouths, and we talk about Postgres',
-    }
-],
 'FOOTER_LINKS' : (
     ('Last edition', 'http://2015.pgday.it' ),
 ),

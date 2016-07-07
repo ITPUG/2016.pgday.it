@@ -109,6 +109,7 @@
         </header>
 
         <div class="socialevents-list">
+        {% if SOCIAL_EVENTS %}
             {% for e in SOCIAL_EVENTS %}
             <div class="socialevent">
                 <div class="socialevent__content">
@@ -133,6 +134,12 @@
                 </div>
             </div>
             {% endfor %}
+        {% else %}
+            <p>
+                {% trans %}Stiamo lavorando per organizzare
+                gli eventi sociali.{% endtrans %}
+            </p>
+        {% endif %}
         </div>
     </section>
 </div>

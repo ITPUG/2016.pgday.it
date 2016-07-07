@@ -38,6 +38,7 @@ EVENT_CTA_BUTTONS = [
 COPYRIGHT = '''© Copyright 2008-2016 Italian PostgreSQL Users Group<br>
 Partita IVA: 02099540979 / Codice Fiscale: 92074760486
 '''
+'''
 SOCIAL_EVENTS = [
     {
         'title': 'pg_birra',
@@ -59,6 +60,7 @@ SOCIAL_EVENTS = [
         'description': 'Un menu\' per sfamare tutte le bocche, e si parla di Postgres',
     }
 ]
+'''
 '''
 EVENT_PARTNERS = {
     'diamond': [{
