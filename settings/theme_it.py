@@ -10,17 +10,18 @@ BRANDING_LINK = {
     'title': 'itpug',
     'image': 'logo-itpug.png',
 }
-EVENT_CLAIM = '''ITPUG è lieta di presentare la nona edizione del PGDay.<br>
-Troverai interventi su PostgreSQL, un team di volontari pronti ad aiutarti in
-caso di bisogno, eventi sociali e molto altro...
+EVENT_CLAIM = '''Stiamo lavorando per organizzare la decima
+edizione del PGDay Italiano.<br>
+Torna a trovarci per rimanere aggiornato con gli sviluppi!
 '''
-EVENT_DATE = 'venerdi 23 ottobre'
+EVENT_DATE = 'venerdi 25 novembre'
 EVENT_LOCATION = 'camera di commercio, prato'
 EVENT_LOCATION_COORDS = {
     'lat': '43.9322467',
     'lng': '10.9108973',
 }
 MENUITEMS = (('home', '/'),)
+'''
 EVENT_CTA_BUTTONS = [
     {
         'label': 'biglietti conferenza',
@@ -33,6 +34,7 @@ EVENT_CTA_BUTTONS = [
         'primary': False
     },
 ]
+'''
 COPYRIGHT = '''© Copyright 2008-2016 Italian PostgreSQL Users Group<br>
 Partita IVA: 02099540979 / Codice Fiscale: 92074760486
 '''

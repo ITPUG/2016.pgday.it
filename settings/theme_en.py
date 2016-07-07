@@ -7,25 +7,13 @@ I18N_SUBSITES = {
 
 ## Translated settings
 'SITENAME': '2016 PGDay.IT',
-'EVENT_CLAIM': '''ITPUG is pleased to present the ninth edition of PGDay.IT.
-You will find talks about PostgreSQL, a team of volunteers ready to help you
-if necessary, social events and much more...
+'EVENT_CLAIM': '''We are working hard to organize the 10th
+edition of PGDay.IT.<br>
+Stay tuned to get news and follow the progress.
 ''',
 'SITEURL': '/en',
-'EVENT_DATE': 'Friday 23 October',
+'EVENT_DATE': 'Friday 25 November',
 'EVENT_LOCATION': 'Chamber of Commerce, Prato',
-'EVENT_CTA_BUTTONS': [
-    {
-        'label': 'conference tickets',
-        'url': 'https://www.eventbrite.it/',
-        'primary': True
-    },
-    {
-        'label': 'dinner tickets',
-        'url': 'https://www.eventbrite.it/',
-        'primary': False
-    },
-],
 'COPYRIGHT': '''© Copyright 2008-2016 Italian PostgreSQL Users Group<br>
 VAT: 02099540979 / Tax Code: 92074760486
 ''',
