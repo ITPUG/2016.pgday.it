@@ -3,6 +3,8 @@
 Questo progetto ospita il sito del PGDAY.it 2016.
 Usiamo Pelican, e Python 3 come versione dell'interprete.
 
+[Documentazione ufficiale di Pelican](http://docs.getpelican.com/en/3.6.3/)
+
 ## Installazione
 
 Consigliamo di creare un ambiente virtuale python e utilizzare quello
@@ -48,16 +50,20 @@ cd output/ && python -m http.server
 ```
 
 Consultare la documentazione ufficiale di pelican per scoprire altri metodi.
+[Documentazione ufficiale di Pelican](http://docs.getpelican.com/en/3.6.3/)
 
 ## Contribuire
 
-### Pagine
+### Pagine e news
 
 Per modificare una pagina del sito,
 aprire con un editor di testo uno dei file con estensione rst presenti nella
 cartella ``content/pages`` e modificarne il contenuto.
 
+Le news sono semplici pagine che si trovano nella cartella ``content/news/``.
+
 La sintassi utilizzata e' ReStructuredText.
+[Referenza della sintassi RST](http://docutils.sourceforge.net/docs/ref/rst/restructuredtext.html).
 
 Una volta terminate le modifiche, generare il sito con
 
