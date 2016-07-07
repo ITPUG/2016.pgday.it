@@ -56,9 +56,11 @@
                 </a>
             {% endif %}
             <ul id="js-navigation--main__list" class="navigation--main__list">
+                {% for label, href in MENUITEMS %}
                 <li>
-                    <a href="{{ SITEURL }}/">home</a>
+                    <a href="{{ href }}/">{{ label }}</a>
                 </li>
+                {% endfor %}
                 {% if DISPLAY_PAGES_ON_MENU %}
                     {% for p in PAGES %}
                     {% if not p.nav == 'footer' %}
