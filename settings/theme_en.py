@@ -17,6 +17,7 @@ Stay tuned to get news and follow the progress.
 'COPYRIGHT': '''© Copyright 2008-2016 Italian PostgreSQL Users Group<br>
 VAT: 02099540979 / Tax Code: 92074760486
 ''',
+'MENUITEMS': (('home', '/en'),),
 'FOOTER_LINKS' : (
     ('Last edition', 'http://2015.pgday.it' ),
 ),

@@ -20,7 +20,7 @@ EVENT_LOCATION_COORDS = {
     'lat': '43.9322467',
     'lng': '10.9108973',
 }
-#MENUITEMS = (('home', ''),)
+MENUITEMS = (('home', ''),)
 '''
 EVENT_CTA_BUTTONS = [
     {
