@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2016-07-07 17:08+0200\n"
+"POT-Creation-Date: 2016-08-04 16:13+0200\n"
 "PO-Revision-Date: 2016-06-03 11:16+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: it\n"
@@ -22,61 +22,65 @@ msgstr ""
 msgid "News"
 msgstr ""
 
-#: templates/index.html:107
+#: templates/index.html:75
+msgid "Al momento non sono presenti news."
+msgstr ""
+
+#: templates/index.html:113
 msgid "Eventi Sociali"
 msgstr ""
 
-#: templates/index.html:121
+#: templates/index.html:127
 msgid "presso"
 msgstr ""
 
-#: templates/index.html:132
+#: templates/index.html:138
 msgid "mappa"
 msgstr ""
 
-#: templates/index.html:139
+#: templates/index.html:145
 msgid ""
 "Stiamo lavorando per organizzare\n"
 "                gli eventi sociali."
 msgstr ""
 
-#: templates/index.html:155
+#: templates/index.html:161
 msgid "Partner Diamond"
 msgstr ""
 
-#: templates/index.html:160
+#: templates/index.html:166
 msgid "Diventa partner Diamond!"
 msgstr ""
 
-#: templates/index.html:166
+#: templates/index.html:172
 msgid "Partner Platinum"
 msgstr ""
 
-#: templates/index.html:171
+#: templates/index.html:177
 msgid "Diventa partner Platinum!"
 msgstr ""
 
-#: templates/index.html:177
+#: templates/index.html:183
 msgid "Partner Gold"
 msgstr ""
 
-#: templates/index.html:182
+#: templates/index.html:188
 msgid "Diventa partner Gold!"
 msgstr ""
 
-#: templates/index.html:188
+#: templates/index.html:194
 msgid "Partner Silver"
 msgstr ""
 
-#: templates/index.html:193
+#: templates/index.html:199
 msgid "Diventa partner Silver!"
 msgstr ""
 
-#: templates/index.html:199
+#: templates/index.html:205
 msgid "Media Partner"
 msgstr ""
 
-#: templates/index.html:218
+#: templates/index.html:224
 msgid "Dove siamo"
 msgstr ""
 
@@ -84,15 +88,5 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid ""
-#~ "\n"
-#~ "                Stiamo lavorando per organizzare gli eventi\n"
-#~ "                sociali.\n"
-#~ "                "
-#~ msgstr ""
-
-#~ msgid ""
-#~ "\n"
-#~ "                Rimani in ascolto per seguire gli aggiornamenti!\n"
-#~ "                "
 #~ msgstr ""
 

@@ -14,12 +14,12 @@ EVENT_CLAIM = '''Stiamo lavorando per organizzare la decima
 edizione del PGDay Italiano.<br>
 Torna a trovarci per rimanere aggiornato con gli sviluppi!
 '''
-EVENT_DATE = 'venerdi 25 novembre'
-EVENT_LOCATION = 'camera di commercio, prato'
-EVENT_LOCATION_COORDS = {
-    'lat': '43.9322467',
-    'lng': '10.9108973',
-}
+#EVENT_DATE = 'venerdi 25 novembre'
+#EVENT_LOCATION = 'camera di commercio, prato'
+#EVENT_LOCATION_COORDS = {
+#    'lat': '43.9322467',
+#    'lng': '10.9108973',
+#}
 MENUITEMS = (('home', ''),)
 '''
 EVENT_CTA_BUTTONS = [

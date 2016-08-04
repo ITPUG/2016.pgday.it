@@ -70,28 +70,34 @@
             </h2>
         </header>
 
-        <ol class="news-list">
-            {% for article in articles_page.object_list %}
-            <li>
-                <article class="news-article">
-                    <aside class="news-article__aside">
-                        <time datetime="{{ article.date.isoformat() }}">
-                            {{ article.locale_date }}
-                        </time>
-                    </aside>
-                    <header class="news-article__header">
-                        <h2 class="news-article__header__title">
-                            <a href="{{ main_siteurl }}/{{ article.url }}"
-                                rel="bookmark"
-                                title="{{ article.title|striptags }}">
-                                    {{ article.title }}
-                            </a>
-                        </h2>
-                    </header>
-                </article>
-            </li>
-            {% endfor %}
-        </ol>
+        {% if not articles_page.object_list %}
+            <p>
+                {% trans %}Al momento non sono presenti news.{% endtrans %}
+            </p>
+        {% else %}
+            <ol class="news-list">
+                {% for article in articles_page.object_list %}
+                <li>
+                    <article class="news-article">
+                        <aside class="news-article__aside">
+                            <time datetime="{{ article.date.isoformat() }}">
+                                {{ article.locale_date }}
+                            </time>
+                        </aside>
+                        <header class="news-article__header">
+                            <h2 class="news-article__header__title">
+                                <a href="{{ main_siteurl }}/{{ article.url }}"
+                                    rel="bookmark"
+                                    title="{{ article.title|striptags }}">
+                                        {{ article.title }}
+                                </a>
+                            </h2>
+                        </header>
+                    </article>
+                </li>
+                {% endfor %}
+            </ol>
+        {% endif %}
 
         {% if articles_page.has_other_pages() %}
             {% include 'pagination.html' %}
