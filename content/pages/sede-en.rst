@@ -5,8 +5,8 @@ Location
 :author: ITPUG
 :lang: en
 
-The tenth edition of PGDay.IT will be held for the second time at the
-**Camera di Commercio di Prato**.
+The tenth edition of PGDay.IT will be held at the
+**Camera di Commercio di Prato**, like the previous edition.
 
 The address is **via del Romito 71, 59100 Prato**.
 
@@ -18,7 +18,7 @@ The address is **via del Romito 71, 59100 Prato**.
 Contacts
 --------
 
-The phone number of the telephone exchange is **0574 61261**.
+The phone number of the reception is **0574 61261**.
 
 Reach the conference by car
 ---------------------------
@@ -26,19 +26,19 @@ Reach the conference by car
 The car park of the Camera di Commercio can be accessed from:
 
 * Via del Romito, turning in via Marcovaldi
-* Via Valentini, turning in Pelagatti
+* Via Valentini, turning in via Pelagatti
 * Via Zarini, turning in via Pelagatti
 
 
-Reach the conference by public transportation
----------------------------------------------
+Reach the conference by public transport
+----------------------------------------
 
-The conference is easily approachable taking the **red line** of LAM.
-The bus stop is Valentini 5 (if you come from the train station)
-or Valentini 6 (if you come from Paperino or San Giorgio)
+The conference can be easily reached using the **red line** LAM bus.
+The bus stop is called **Valentini 5** (from the rail station)
+or **Valentini 6** (from Paperino or San Giorgio).
 
-If you come by train, get off at the Prato Centrale station and
-take the **red line** of LAM to Paperino/San Giorgio.
+If you arrive by train, get off at the **Prato Centrale** station and
+take the **red line** LAM bus towards **Paperino** or **San Giorgio**.
 
 
 Useful links
