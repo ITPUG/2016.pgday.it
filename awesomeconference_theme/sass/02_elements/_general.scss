@@ -67,6 +67,24 @@ hr {
 
 
 
+////////////////////////////////////////////////////////////////////////////////
+// Content Utils
+////////////////////////////////////////////////////////////////////////////////
+
+.site-content {
+    .align-right {
+        float: right;
+        margin: 0 0 $gutter $gutter;
+        width: 50%;
+    }
+
+    .align-left {
+        float: left;
+        margin: 0 $gutter $gutter 0;
+        width: 50%;
+    }
+}
+
 
 ////////////////////////////////////////////////////////////////////////////////
 // General div
@@ -81,16 +99,4 @@ hr {
         margin: 0 auto;
     }
 }
-
-.profile-picture {
-    @include border-radius(100px);
-    width: 50px;
-    height: 50px;
-}
-
-
-
-
-
-
 
