@@ -122,6 +122,7 @@ SOCIAL_LINKS = [
 ]
 FOOTER_LINKS = (
     ('passata edizione', 'http://2015.pgday.it' ),
+    ('aiutaci', '/pages/volunteering.html' ),
 )
 SCHEDULE = (
     ('08:30', [

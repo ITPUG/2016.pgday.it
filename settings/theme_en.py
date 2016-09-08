@@ -20,6 +20,7 @@ VAT: 02099540979 / Tax Code: 92074760486
 'MENUITEMS': (('home', '/en'),),
 'FOOTER_LINKS' : (
     ('Last edition', 'http://2015.pgday.it' ),
+    ('volunteering', '/en/pages/volunteering.html' ),
 ),
 'SCHEDULE': (
     ('08:30', [

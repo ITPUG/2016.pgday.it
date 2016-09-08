@@ -4,7 +4,6 @@ Aiutaci
 :slug: volunteering
 :author: ITPUG
 :lang: it
-:status: hidden
 
 
 Aiutaci a promuovere il PgDay!
@@ -15,5 +14,54 @@ relativo link a: http://2016.pgday.it
 
 E’ sufficiente copiare il codice HTML sopra al banner scelto e incollarlo
 nelle pagine desiderate.
+
+
+.. code-block:: html
+
+    <a href="http://2016.pgday.it">
+        <img alt="pgday_200x60_it" src="/images/pgday_200x60_it.png" width="200" height="60" />
+    </a>
+
+
+.. image:: /images/pgday_200x60_it.png
+    :width: 200px
+    :alt: PGDay banner 200x60
+
+
+.. code-block:: html
+
+    <a href="http://2016.pgday.it">
+        <img alt="pgday_468x60_it" src="/images/pgday_468x60_it.png" width="468" height="60" />
+    </a>
+
+
+.. image:: /images/pgday_468x60_it.png
+    :width: 468px
+    :alt: PGDay banner 468x60
+
+
+.. code-block:: html
+
+    <a href="http://2016.pgday.it">
+        <img alt="pgday_120x600_it" src="/images/pgday_120x600_it.png" width="120" height="600" />
+    </a>
+
+
+.. image:: /images/pgday_120x600_it.png
+    :width: 120px
+    :alt: PGDay banner 120x600
+
+
+.. code-block:: html
+
+    <a href="http://2016.pgday.it">
+        <img alt="pgday_160x600_it" src="/images/pgday_160x600_it.png"
+            width="160" height="600" />
+    </a>
+
+
+.. image:: /images/pgday_160x600_it.png
+    :width: 160px
+    :alt: PGDay banner 160x600
 
 
