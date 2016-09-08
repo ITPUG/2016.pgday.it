@@ -4,10 +4,9 @@ Sede
 :slug: location
 :author: ITPUG
 :lang: it
-:status: hidden
 
 
-La nona edizione del PGDay.IT si terrà per la prima volta presso la
+La decima edizione del PGDay.IT si terrà per la seconda volta presso la
 **Camera di Commercio di Prato**.
 
 L'indirizzo è **via del Romito 71, 59100 Prato**.
