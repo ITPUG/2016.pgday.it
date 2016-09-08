@@ -11,7 +11,7 @@ date and location officials regarding the
 **tenth** edition of the Italian PGDay:
 
 **Tuesday, December 13, 2016** the
-`Chamber of Commerce in Prato <http://www.po.camcom.it>`_
+`Camera di Commercio di Prato <http://www.po.camcom.it>`_
 will host the annual edition of our favorite conference.
 
 We would like to remember that this is the **tenth**

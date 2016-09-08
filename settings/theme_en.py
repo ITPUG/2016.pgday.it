@@ -13,7 +13,7 @@ Stay tuned to get news and follow the progress.
 ''',
 'SITEURL': '/en',
 'EVENT_DATE': 'Tuesday, December 13',
-'EVENT_LOCATION': 'Chamber of Commerce, Prato',
+'EVENT_LOCATION': 'Camera di Commercio, Prato',
 'COPYRIGHT': '''© Copyright 2008-2016 Italian PostgreSQL Users Group<br>
 VAT: 02099540979 / Tax Code: 92074760486
 ''',
