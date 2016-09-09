@@ -53,7 +53,7 @@ Il personale della conferenza sarà lieto di aiutare i partecipanti a contattare
 della sede o le locali forze dell'ordine, fare da scorta, o assistere in altro modo coloro
 che subiscono molestie.
 
-Queste regole si estendono anche angli eventi sociali collegati alla conferenza.
+Queste regole si estendono anche agli eventi sociali collegati alla conferenza.
 
 Se doveste aver bisogno di parlare privatamente con gli organizzatori, prima o durante
 il PGDay.IT, contattate una delle seguenti persone :
