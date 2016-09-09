@@ -19,7 +19,7 @@ nelle pagine desiderate.
 .. code-block:: html
 
     <a href="http://2016.pgday.it">
-        <img alt="pgday_200x60_it" src="/images/pgday_200x60_it.png" width="200" height="60" />
+        <img alt="pgday_200x60_it" src="http://2016.pgday.it/images/pgday_200x60_it.png" width="200" height="60" />
     </a>
 
 
@@ -31,7 +31,7 @@ nelle pagine desiderate.
 .. code-block:: html
 
     <a href="http://2016.pgday.it">
-        <img alt="pgday_468x60_it" src="/images/pgday_468x60_it.png" width="468" height="60" />
+        <img alt="pgday_468x60_it" src="http://2016.pgday.it/images/pgday_468x60_it.png" width="468" height="60" />
     </a>
 
 
@@ -43,7 +43,7 @@ nelle pagine desiderate.
 .. code-block:: html
 
     <a href="http://2016.pgday.it">
-        <img alt="pgday_120x600_it" src="/images/pgday_120x600_it.png" width="120" height="600" />
+        <img alt="pgday_120x600_it" src="http://2016.pgday.it/images/pgday_120x600_it.png" width="120" height="600" />
     </a>
 
 
@@ -55,7 +55,7 @@ nelle pagine desiderate.
 .. code-block:: html
 
     <a href="http://2016.pgday.it">
-        <img alt="pgday_160x600_it" src="/images/pgday_160x600_it.png"
+        <img alt="pgday_160x600_it" src="http://2016.pgday.it/images/pgday_160x600_it.png"
             width="160" height="600" />
     </a>
 
