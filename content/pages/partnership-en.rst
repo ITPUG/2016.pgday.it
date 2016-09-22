@@ -4,89 +4,91 @@ Partnership
 :slug: partnership
 :author: ITPUG
 :lang: en
-:status: hidden
+:nav: footer
 
 
-.. ERROR::
-
-    This Page needs to be translated in English!
-
-
-Il PGDay.it 2015 è la più grande opportunità per le aziende che basano il loro
-business intorno a PostgreSQL in Italia.
-Otterrai un eccellente ritorno dalla pubblicità sul nostro sito e durante la conferenza,
-secondo diverse modalità, quali:
+The 2016 PGDay.it is the biggest opportunity for companies that rely their
+business around PostgreSQL in Italy.
+You will get an excellent return in terms of advertising both on our website
+and during the conference. You can sponsor in different ways, such as:
 
 * Diamond (€1.500)
 * Platinum (€750)
 * Gold (€500)
 * Silver (€300)
 
-*Tutti gli importi sono da considerarsi IVA al 22% esclusa.*
+*All amounts are VAT 22% excluded.*
 
-Il ricavato sarà utilizzato dall'associazione culturale no-profit ITPUG -
-Italian PostgreSQL User Group, per l'organizzazione dell'evento e per la promozione di
-PostgreSQL in Italia, secondo le finalità espresse nel proprio statuto.
-Richiedi maggiori informazioni e per aderire all'iniziativa, contattaci all'indirizzo
-tesoreria@itpug.org.
+The proceeds will be used by ITPUG - Italian PostgreSQL User Group,
+for organizing the event and for the promotion of
+PostgreSQL in Italy, according to the goals expressed in its charter.
+To get more information and to join the initiative, please contact us at
+**tesoreria@itpug.org**.
 
-Partner Diamond
+Please note that the logos on the conference web site (web banner) and on T-shirts or
+other promotional material will be resized by the organizers of the conference respecting
+the proportions of the partnership level chosen, which is in order of decreasing size Diamond,
+Platinum, Gold and Silver.
+TODO (Tutti i loghi dovranno essere forniti alla stipula del contratto o nei giorni
+immediatamente successivi per consentire agli organizzatori di posizionarli sul sito web e
+sul materiale divulgativo)
+All logos must be provided in PNG format.
+
+
+Diamond Partner
 ---------------
 
+As Diamond Partner you will have a high level of visibility before,
+during and after the event, through:
 
-In quanto Partner Diamond usufruirai di un altissimo livello di visibilità prima,
-durante e dopo la manifestazione, attraverso:
-
-* eccezionale visibilità sulla pagina dei partner e degli sponsor del sito dell'evento. Il tuo logo (web banner 300×250 pixel, in formato PNG) conterrà un link al tuo sito web;
-* logo promozionale sulla maglietta della manifestazione;
-* ampia visibilità sulla home page del sito dell'evento. Il tuo logo (web banner 120×60 pixel, in formato PNG) conterrà un link al tuo sito web;
-* postazione di benvenuto (tavolo) presso l'area di registrazione dove poter distribuire materiale ed interagire con gli iscritti all'evento;
-* materiale promozionale all'interno delle cartelle consegnate ai partecipanti registrati (2 fogli in formato A4);
-* elenco dei partecipanti che hanno autorizzato la comunicazione ai partner;
-* permesso di fregiarsi del titolo di "PGDay.IT 2015 Diamond Partner";
-* permesso di visualizzare il logo "PGDay.IT 2015 Diamond Partner" sul proprio sito secondo le modalità fornite;
-* 5 ingressi omaggio alla conferenza.
+* Exceptional visibility on the partners and sponsors page of the event website. Your logo will include a link to your website;
+* Promotional logo on the shirt of the event;
+* Great visibility on the event homepage. Your logo will include a link to your website;
+* Welcome desk (table) at the registration area where you can distribute materials and interact with the attendees;
+* Promotional material in the conference folders for registered attendees (two A4 size sheets);
+* List of attendees who have authorized TODO ;
+* Permission to use the title "PGDay.IT 2016 Diamond Partner";
+* Permission to use the "PGDay.IT 2016 Diamond Partner" logo on your website in the manner provided;
+* 5 free conference tickets.
 
 
-Partner Platinum
+Platinum Partner
 ----------------
 
 
-In quanto Partner Platinum usufruirai di un alto livello di visibilità prima,
-durante e dopo la manifestazione, attraverso:
+As Platinum Partner you will have a high level of visibility before,
+during and after the event, through:
 
-* eccezionale visibilità sulla pagina dei partner e degli sponsor del sito dell'evento. Il tuo logo (web banner 234×60 pixel, in formato PNG) conterrà un link al tuo sito web;
-* ampia visibilità sulla home page del sito dell'evento. Il tuo logo (web banner 120×60 pixel, in formato PNG) conterrà un link al tuo sito web;
-* materiale promozionale all'interno delle cartelle consegnate ai partecipanti registrati (1 foglio in formato A4);
-* elenco dei partecipanti che hanno autorizzato la comunicazione ai partner;
-* permesso di fregiarsi del titolo di "PGDay.IT 2015 Platinum Partner";
-* permesso di visualizzare il logo "PGDay.IT 2015 Platinum Partner" sul proprio sito secondo le modalità fornite;
-* 3 ingressi omaggio alla giornata di conferenza
+* Exceptional visibility on the partners and sponsors page of the event website. Your logo will include a link to your website;
+* Great visibility on the event homepage. Your logo will include a link to your website;
+* Promotional material in the conference folders for registered attendees (one A4 sheet);
+* List of attendees who have authorized TODO ;
+* Permission to use the title "PGDay.IT 2016 Platinum Partner";
+* Permission to use the "PGDay.IT 2016 Platinum Partner" logo on your website in the manner provided;
+* 3 free conference tickets.
 
 
-Partner Gold
+
+Gold Partner
 ------------
 
+As Gold Partner you will have a high level of visibility before,
+during and after the event, through:
 
-In quanto Partner Gold usufruirai di un alto livello di visibilità prima,
-durante e dopo la manifestazione, attraverso:
-
-* ampia visibilità sulla pagina dei partner e degli sponsor del sito dell'evento. Il tuo logo (web banner 120×60 pixel, in formato PNG) conterrà un link al tuo sito web;
-* ampia visibilità sulla home page del sito dell'evento. Il tuo logo (web banner 120×60 pixel, in formato PNG) conterrà un link al tuo sito web;
-* permesso di fregiarsi del titolo di "PGDay.IT 2015 Gold Partner";
-* permesso di visualizzare il logo "PGDay.IT 2015 Gold Partner" sul proprio sito secondo le modalità fornite.
-* 2 ingressi omaggio alla giornata di conferenza
+* Visibility on the partners and sponsors page of the event website. Your logo will include a link to your website;
+* Visibility on the event homepage. Your logo will include a link to your website;
+* Permission to use the title "PGDay.IT 2016 Gold Partner";
+* Permission to use the "PGDay.IT 2016 Gold Partner" logo on your website in the manner provided.
+* 2 free conference tickets.
 
 
-Partner Silver
+Silver Partner
 --------------
 
+As Silver Partner you will have a high level of visibility before,
+during and after the event, through:
 
-In quanto Partner Silver usufruirai di un alto livello di visibilità prima,
-durante e dopo la manifestazione, attraverso:
-
-* ampia visibilità sulla pagina dei partner e degli sponsor del sito dell'evento. Il tuo logo (logo 120 ×60 pixel, in formato PNG) conterrà un link al tuo sito web;
-* permesso di fregiarsi del titolo di "PGDay.IT 2015 Silver Partner";
-* permesso di visualizzare il logo "PGDay.IT 2015 Silver Partner" sul proprio sito secondo le modalità fornite.
-* 1 ingresso omaggio alla giornata di conferenza
-
+* Visibility on the partners and sponsors page of the event website. Your logo will include a link to your website;
+* Permission to use the title "PGDay.IT 2016 Silver Partner";
+* Permission to use the "PGDay.IT 2016 Silver Partner" logo on your website in the manner provided.
+* 1 free conference tickets.
