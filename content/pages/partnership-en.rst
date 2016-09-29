@@ -29,9 +29,9 @@ Please note that the logos on the conference web site (web banner) and on T-shir
 other promotional material will be resized by the organizers of the conference respecting
 the proportions of the partnership level chosen, which is in order of decreasing size Diamond,
 Platinum, Gold and Silver.
-TODO (Tutti i loghi dovranno essere forniti alla stipula del contratto o nei giorni
-immediatamente successivi per consentire agli organizzatori di posizionarli sul sito web e
-sul materiale divulgativo)
+All the logos have to be provided once the sponsorship agreement is signed, or in the really
+following days, in order to allow the conference committee to place them on the web site
+and on the gadgets on time.
 All logos must be provided in PNG format.
 
 
@@ -46,7 +46,7 @@ during and after the event, through:
 * Great visibility on the event homepage. Your logo will include a link to your website;
 * Welcome desk (table) at the registration area where you can distribute materials and interact with the attendees;
 * Promotional material in the conference folders for registered attendees (two A4 size sheets);
-* List of attendees who have authorized TODO ;
+* Record of conference attendees who agreed to pass over their own data;
 * Permission to use the title "PGDay.IT 2016 Diamond Partner";
 * Permission to use the "PGDay.IT 2016 Diamond Partner" logo on your website in the manner provided;
 * 5 free conference tickets.
@@ -62,7 +62,7 @@ during and after the event, through:
 * Exceptional visibility on the partners and sponsors page of the event website. Your logo will include a link to your website;
 * Great visibility on the event homepage. Your logo will include a link to your website;
 * Promotional material in the conference folders for registered attendees (one A4 sheet);
-* List of attendees who have authorized TODO ;
+* Record of conference attendees who agreed to pass over their own data;
 * Permission to use the title "PGDay.IT 2016 Platinum Partner";
 * Permission to use the "PGDay.IT 2016 Platinum Partner" logo on your website in the manner provided;
 * 3 free conference tickets.
