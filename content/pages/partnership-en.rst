@@ -4,7 +4,6 @@ Partnership
 :slug: partnership
 :author: ITPUG
 :lang: en
-:nav: footer
 
 
 The 2016 PGDay.it is the biggest opportunity for companies that rely their

@@ -4,6 +4,7 @@ Volunteering
 :slug: volunteering
 :author: ITPUG
 :lang: en
+:nav: footer
 
 Help us promoting the Italian PGDay!
 

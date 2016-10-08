@@ -4,7 +4,6 @@ Partnership
 :slug: partnership
 :author: ITPUG
 :lang: it
-:nav: footer
 
 
 Il PGDay.it 2016 è la più grande opportunità per le aziende che basano il loro
