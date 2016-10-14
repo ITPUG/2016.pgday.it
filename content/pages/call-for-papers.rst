@@ -5,6 +5,9 @@ Call for Papers
 :author: ITPUG
 :lang: it
 
+.. warning::
+    La Call For Paper e' stata prolungata fino a sabato 22 ottobre alle 23:59!
+
 È aperta la Call for Papers per la decima edizione del
 PGDay Italiano, che si terrà il 13 dicembre prossimo a Prato.
 
@@ -40,10 +43,10 @@ Ad esempio:
 
 Tutte le proposte dovranno essere inviate tramite posta
 elettronica a pgday@itpug.org, entro e non oltre le ore
-**23:59** di **martedì 11 ottobre 2016**.
+**23:59** di **sabato 22 ottobre 2016**.
 
 I proponenti verranno informati dell’esito della valutazione
-entro **martedì 18 ottobre 2016**.
+entro **sabato 29 ottobre 2016**.
 
 Nella proposta occorre specificare le seguenti informazioni:
 

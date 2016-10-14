@@ -5,6 +5,9 @@ Call for Papers
 :author: ITPUG
 :lang: en
 
+.. warning::
+    The Call For Papers deadline has been extended to Saturday 22 October at 23:59!
+
 The Call for Papers for the tenth edition of the Italian
 PGDay is now open. The conference will be held on
 13 December 2016 in Prato.
@@ -39,8 +42,8 @@ to PostgreSQL. For instance:
 To submit your proposal(s), write an e-mail
 to **pgday@itpug.org** .
 The deadline for submissions is 23:59 (UTC+2) on
-**Tuesday 11 October 2016**; proponents of selected talks will
-be notified by **Tuesday 18 October 2016**.
+**Saturday 22 October 2016**; proponents of selected talks will
+be notified by **Saturday 29 October 2016**.
 
 Each proposal must include the following information:
 
