@@ -17,8 +17,8 @@ Torna a trovarci per rimanere aggiornato con gli sviluppi!
 EVENT_DATE = 'martedì 13 dicembre'
 EVENT_LOCATION = 'Camera di Commercio, Prato'
 EVENT_LOCATION_COORDS = {
-    'lat': '43.8727834',
-    'lng': '11.0950403',
+    'lat': '43.872372',
+    'lng': '11.097499',
 }
 MENUITEMS = (('home', ''),)
 '''
@@ -170,7 +170,7 @@ SCHEDULE = (
     ('12:10', [
         {
             'title': 'Pausa',
-            'extra_class': 'schedule-item--coffe',
+            'extra_class': 'schedule-item--generic-break',
         },
     ]),
     ('12:20', [
@@ -261,12 +261,6 @@ SCHEDULE = (
         {
             'track': 'auditorium',
             'title': 'Foto di gruppo e chiusura dei lavori',
-        },
-    ]),
-    ('17:45', [
-        {
-            'title': 'pg_beer',
-            'extra_class': 'schedule-item--beer',
         },
     ]),
 )

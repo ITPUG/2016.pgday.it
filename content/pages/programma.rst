@@ -5,4 +5,3 @@ Programma
 :author: ITPUG
 :lang: it
 :template: schedule
-:status: hidden

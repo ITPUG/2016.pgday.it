@@ -23,119 +23,145 @@ VAT: 02099540979 / Tax Code: 92074760486
     ('volunteering', '/en/pages/volunteering.html' ),
 ),
 'SCHEDULE': (
-    ('08:30', [
+   ('09:00', [
         {
             'title': 'Registration'
         },
     ]),
-    ('09:00', [
+    ('10:00', [
         {
             'track': 'auditorium',
-            'title': 'Conference opening'
+            'title': 'Opening'
         },
     ]),
-    ('09:45', [
+    ('10:15', [
         {
             'track': 'auditorium',
             'title': 'Keynote',
             'speakers': [
-                'Andres Freund',
+                'TBA',
             ]
         },
     ]),
-    ('10:30', [
+    ('11:00', [
         {
             'title': 'Coffee Break',
             'extra_class': 'schedule-item--coffe',
         },
     ]),
-    ('10:45', [
+    ('11:25', [
         {
             'track': 'auditorium',
-            'title': 'BDR for DBAs',
+            'title': 'Don\'t Touch that Parameter',
             'speakers': [
-                'Martin Marques',
+                'Mladen Marinovic',
             ]
         },
         {
-            'track': 'conference hall',
-            'title': 'Do you talk PostgreSQL?',
+            'track': 'sala conferenze',
+            'title': 'Estensione del supporto BRIN a PostGIS',
+            'speakers': [
+                'Giuseppe Broccolo',
+            ]
+        },
+    ]),
+    ('12:10', [
+        {
+            'title': 'Break',
+            'extra_class': 'schedule-item--generic-break',
+        },
+    ]),
+    ('12:20', [
+        {
+            'track': 'auditorium',
+            'title': 'Upgrade or not upgrade... this is the question!',
             'speakers': [
                 'Denis Gasparin',
             ]
         },
-    ]),
-    ('11:30', [
         {
-            'track': 'auditorium',
-            'title': 'YeSQL: Battling the NoSQL Hype Cycle with Postgres',
+            'track': 'sala conferenze',
+            'title': 'PostgreSQL - Hadoop: why not?',
             'speakers': [
-                'Bruce Momjian',
-            ]
-        },
-        {
-            'track': 'conference hall',
-            'title': 'PostgreSQL Disaster Recovery (using BarMan)',
-            'speakers': [
-                'Giulio Calacoci',
+                'Matteo Durighetto',
             ]
         },
     ]),
-    ('13:00', [
+    ('13:05', [
         {
-            'title': 'Lunch',
+            'title': 'Pranzo',
             'extra_class': 'schedule-item--lunch',
         },
     ]),
-    ('14:00', [
+    ('14:05', [
         {
             'track': 'auditorium',
-            'title': 'Integrare PostgreSQL con Logstash per il monitoraggio real-time',
+            'title': 'ITPUG - Italian PostgreSQL Users Group',
             'speakers': [
-                'Gabriele Bartolini',
-                'Marco Nenciarini',
+                'Consiglio Direttivo ITPUG',
+            ]
+        },
+    ]),
+    ('14:20', [
+        {
+            'track': 'auditorium',
+            'title': 'PostgreSQL su NFS: miti e verità',
+            'speakers': [
+                'Jonathan Battiato',
             ]
         },
         {
-            'track': 'conference hall',
-            'title': 'The importance of query profiling',
+            'track': 'sala conferenze',
+            'title': 'Postgrest: la REST API per i database PostgreSQL',
             'speakers': [
-                'Gianni Ciolli',
+                'Lucio Grenzi',
             ]
         },
         {
-            'track': 'computer science room',
+            'track': 'sala informatica',
             'title': 'ITPUGLab',
             'speakers': [
                 'Luca Ferrari',
                 'Gianluca Riccardi',
-            ]
+            ],
+            'duration': '115min',
         },
     ]),
-    ('15:30', [
+    ('15:05', [
         {
             'title': 'Coffee Break',
             'extra_class': 'schedule-item--coffe',
         },
     ]),
-    ('16:30', [
+    ('15:30', [
         {
             'track': 'auditorium',
-            'title': 'Lightning Talks',
+            'title': 'PostgreSQL Horror Stories Vol.1: Failing on the big day',
+            'speakers': [
+                'Mladen Marinovic',
+            ]
+        },
+        {
+            'track': 'sala conferenze',
+            'title': 'Unit Test',
+            'speakers': [
+                'Andrea Adami',
+            ]
         },
     ]),
-    ('17:30', [
+    ('16:15', [
         {
             'track': 'auditorium',
-            'title': 'Group photo and conference ending',
+            'title': 'Lightning Talk',
         },
     ]),
-    ('18:00', [
+    ('17:15', [
         {
-            'title': 'pg_beer',
-            'extra_class': 'schedule-item--beer',
+            'track': 'auditorium',
+            'title': 'Foto di gruppo e chiusura dei lavori',
         },
     ]),
+
 )
 ## End of translated settings
 

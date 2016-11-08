@@ -38,6 +38,10 @@
     }
 }
 
+.schedule-item--generic-break {
+    @include schedule-item-break("pause-circle");
+}
+
 .schedule-item--coffe {
     @include schedule-item-break("coffee");
 }
