@@ -125,87 +125,98 @@ FOOTER_LINKS = (
     ('aiutaci', '/pages/volunteering.html' ),
 )
 SCHEDULE = (
-    ('08:30', [
+    ('09:00', [
         {
             'title': 'Registrazione'
         },
     ]),
-    ('09:00', [
+    ('10:00', [
         {
             'track': 'auditorium',
             'title': 'Apertura Lavori'
         },
     ]),
-    ('09:45', [
+    ('10:15', [
         {
             'track': 'auditorium',
             'title': 'Keynote',
             'speakers': [
-                'Andres Freund',
+                'TBA',
             ]
         },
     ]),
-    ('10:30', [
+    ('11:00', [
         {
             'title': 'Coffee Break',
             'extra_class': 'schedule-item--coffe',
         },
     ]),
-    ('10:45', [
+    ('11:25', [
         {
             'track': 'auditorium',
-            'title': 'BDR for DBAs',
+            'title': 'Don\'t Touch that Parameter',
             'speakers': [
-                'Martin Marques',
+                'Mladen Marinovic',
             ]
         },
         {
             'track': 'sala conferenze',
-            'title': 'Do you talk PostgreSQL?',
+            'title': 'Estensione del supporto BRIN a PostGIS',
+            'speakers': [
+                'Giuseppe Broccolo',
+            ]
+        },
+    ]),
+    ('12:10', [
+        {
+            'title': 'Pausa',
+            'extra_class': 'schedule-item--coffe',
+        },
+    ]),
+    ('12:20', [
+        {
+            'track': 'auditorium',
+            'title': 'Upgrade or not upgrade... this is the question!',
             'speakers': [
                 'Denis Gasparin',
             ]
         },
-    ]),
-    ('11:30', [
-        {
-            'track': 'auditorium',
-            'title': 'YeSQL: Battling the NoSQL Hype Cycle with Postgres',
-            'speakers': [
-                'Bruce Momjian',
-            ],
-            'level': 'hard',
-            'language': 'english',
-            'duration': '45 min',
-        },
         {
             'track': 'sala conferenze',
-            'title': 'PostgreSQL Disaster Recovery (con BarMan)',
+            'title': 'PostgreSQL - Hadoop: why not?',
             'speakers': [
-                'Giulio Calacoci',
+                'Matteo Durighetto',
             ]
         },
     ]),
-    ('13:00', [
+    ('13:05', [
         {
             'title': 'Pranzo',
             'extra_class': 'schedule-item--lunch',
         },
     ]),
-    ('14:00', [
+    ('14:05', [
         {
             'track': 'auditorium',
-            'title': 'Integrare PostgreSQL con Logstash per il monitoraggio real-time',
+            'title': 'ITPUG - Italian PostgreSQL Users Group',
             'speakers': [
-                'Gabriele Bartolini',
-                'Marco Nenciarini',
+                'Consiglio Direttivo ITPUG',
+            ]
+        },
+    ]),
+    ('14:20', [
+        {
+            'track': 'auditorium',
+            'title': 'PostgreSQL su NFS: miti e verità',
+            'speakers': [
+                'Jonathan Battiato',
             ]
         },
         {
             'track': 'sala conferenze',
-            'title': 'L\'importanza della profilazione delle query',
+            'title': 'Postgrest: la REST API per i database PostgreSQL',
             'speakers': [
-                'Gianni Ciolli',
+                'Lucio Grenzi',
             ]
         },
         {
@@ -215,30 +226,44 @@ SCHEDULE = (
                 'Luca Ferrari',
                 'Gianluca Riccardi',
             ],
-            'duration': '120min',
-            'level': 'easy',
-            'language': 'italian',
+            'duration': '115min',
         },
     ]),
-    ('15:30', [
+    ('15:05', [
         {
             'title': 'Coffee Break',
             'extra_class': 'schedule-item--coffe',
         },
     ]),
-    ('16:30', [
+    ('15:30', [
+        {
+            'track': 'auditorium',
+            'title': 'PostgreSQL Horror Stories Vol.1: Failing on the big day',
+            'speakers': [
+                'Mladen Marinovic',
+            ]
+        },
+        {
+            'track': 'sala conferenze',
+            'title': 'Unit Test',
+            'speakers': [
+                'Andrea Adami',
+            ]
+        },
+    ]),
+    ('16:15', [
         {
             'track': 'auditorium',
             'title': 'Lightning Talk',
         },
     ]),
-    ('17:30', [
+    ('17:15', [
         {
             'track': 'auditorium',
             'title': 'Foto di gruppo e chiusura dei lavori',
         },
     ]),
-    ('18:00', [
+    ('17:45', [
         {
             'title': 'pg_beer',
             'extra_class': 'schedule-item--beer',
