@@ -158,7 +158,7 @@ VAT: 02099540979 / Tax Code: 92074760486
     ('17:15', [
         {
             'track': 'auditorium',
-            'title': 'Foto di gruppo e chiusura dei lavori',
+            'title': 'Group Picture and happy ending',
         },
     ]),
 
