@@ -14,7 +14,7 @@ Stay tuned to get news and follow the progress.
 'EVENT_CTA_BUTTONS': [
     {
         'label': 'Conference Tickets',
-        'url': 'https://www.eventbrite.it/e/pgdayit-2016-tickets-8850641507',
+        'url': 'https://pgdayit2016.eventbrite.it/',
         'primary': True
     },
 ],
