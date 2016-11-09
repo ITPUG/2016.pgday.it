@@ -99,3 +99,10 @@
     }
 }
 
+.modal {
+    @include border-radius(0);
+    font-size: 14px;
+    padding: $gutter;
+    width: 100%;
+    max-height: 100%;
+}

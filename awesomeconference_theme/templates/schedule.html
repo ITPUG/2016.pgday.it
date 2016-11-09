@@ -28,7 +28,11 @@
                 <p class="schedule-item__talk__track">{{ t.track }}</p>
                 {% endif %}
                 <p class="schedule-item__talk__title">
-                    {% if t.speakers %}<a href="#">{{ t.title }}</a>
+                    {% if t.speakers and t.abstract %}
+                        <a href="#{{when}}-{{loop.index}}"
+                            class="js-modal-trigger">
+                            {{ t.title }}
+                        </a>
                     {% else %}{{ t.title }}{% endif %}
                 </p>
                 {% if t.speakers %}
@@ -57,6 +61,19 @@
     {% endfor %}
     </section>
 
+    <!-- abstracts -->
+    <section class="abstracts">
+    {% for when, talks in SCHEDULE %}
+        {% for t in talks %}
+            {% if t.speakers and t.abstract %}
+            <div class="abstract" id="{{when}}-{{loop.index}}">
+                {{t.abstract}}
+            </div>
+            {% endif %}
+        {% endfor %}
+    {% endfor %}
+    </section>
+
     {{ page.content }}
 
 	{% if page.modified %}
@@ -68,4 +85,43 @@
 </div>
 </div>
 </div>
+
+<section class="modal-overlay" id="js-modal">
+    <div class="modal">
+        <a href="#" class="modal-close" id="js-modal-close">
+            <i class="mdi mdi-close"></i>
+        </a>
+        <div class="modal-content" id="js-modal-content">
+        </div>
+    </div>
+</section>
+
 {% endblock %}
+
+{% block js_script %}
+<script>
+
+var modal = document.getElementById('js-modal');
+var modal_content = document.getElementById('js-modal-content');
+var modal_close = document.getElementById('js-modal-close');
+
+modal_close.addEventListener('click', function(e) {
+    e.preventDefault();
+    remove_class(modal, 'active');
+});
+
+function modal_cb(e) {
+    e.preventDefault();
+    var target = e.target.href.split('#')[1];
+    var abstract = document.getElementById(target).innerHTML;
+    modal_content.innerHTML = abstract;
+    add_class(modal, 'active');
+};
+
+var modal_trig = document.getElementsByClassName('js-modal-trigger');
+for (var i = 0; i < modal_trig.length; i++)
+    modal_trig[i].addEventListener('click', modal_cb);
+
+</script>
+{% endblock %}
+

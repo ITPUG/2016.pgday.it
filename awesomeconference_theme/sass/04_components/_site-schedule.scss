@@ -114,3 +114,10 @@
 .schedule-item__talk__info__duration {
     @include span-icon("clock");
 }
+
+.abstracts {
+    display: none;
+    visibility: hidden;
+}
+
+
