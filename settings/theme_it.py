@@ -21,20 +21,13 @@ EVENT_LOCATION_COORDS = {
     'lng': '11.097499',
 }
 MENUITEMS = (('home', ''),)
-'''
 EVENT_CTA_BUTTONS = [
     {
         'label': 'biglietti conferenza',
-        'url': 'https://www.eventbrite.it/',
+        'url': 'https://www.eventbrite.it/e/pgdayit-2016-tickets-8850641507',
         'primary': True
     },
-    {
-        'label': 'biglietti cena',
-        'url': 'https://www.eventbrite.it/',
-        'primary': False
-    },
 ]
-'''
 COPYRIGHT = '''© Copyright 2008-2016 Italian PostgreSQL Users Group<br>
 Partita IVA: 02099540979 / Codice Fiscale: 92074760486
 '''

@@ -11,6 +11,13 @@ I18N_SUBSITES = {
 edition of PGDay.IT.<br>
 Stay tuned to get news and follow the progress.
 ''',
+'EVENT_CTA_BUTTONS': [
+    {
+        'label': 'Conference Tickets',
+        'url': 'https://www.eventbrite.it/e/pgdayit-2016-tickets-8850641507',
+        'primary': True
+    },
+],
 'SITEURL': '/en',
 'EVENT_DATE': 'Tuesday, December 13',
 'EVENT_LOCATION': 'Camera di Commercio, Prato',
