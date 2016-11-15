@@ -54,47 +54,23 @@ SOCIAL_EVENTS = [
     }
 ]
 '''
-'''
+
 EVENT_PARTNERS = {
-    'diamond': [{
-        'name': 'Amiga',
-        'url': 'http://www.amiga.org/',
-        'logo': 'logo-sponsor.png',
-    }, {
-        'name': 'Amiga',
-        'url': 'http://www.amiga.org/',
-        'logo': 'logo-sponsor.png',
-    }, {
-        'name': 'Amiga',
-        'url': 'http://www.amiga.org/',
-        'logo': 'logo-sponsor.png',
-    }],
+    'diamond': [],
     'platinum': [{
-        'name': 'Amiga',
-        'url': 'http://www.amiga.org/',
-        'logo': 'logo-sponsor.png',
+        'name': 'Interlogica',
+        'url': 'http://interlogica.it',
+        'logo': 'logo-interlogica.png',
     }],
-    'gold': [{
-        'name': 'Amiga',
-        'url': 'http://www.amiga.org/',
-        'logo': 'logo-sponsor.png',
-    }, {
-        'name': 'Amiga',
-        'url': 'http://www.amiga.org/',
-        'logo': 'logo-sponsor.png',
+    'gold': [],
+    'silver': [{
+        'name': '2nQuadrant',
+        'url': 'http://2ndquadrant.it',
+        'logo': 'logo-2ndquadrant.png'
     }],
-    'silver': [],
-    'media': [{
-        'name': 'Amiga',
-        'url': 'http://www.amiga.org/',
-        'logo': 'logo-sponsor.png',
-    }, {
-        'name': 'Amiga',
-        'url': 'http://www.amiga.org/',
-        'logo': 'logo-sponsor.png',
-    }],
+    'media': [],
 }
-'''
+
 SOCIAL_LINKS = [
     {
         'name': 'facebook',
