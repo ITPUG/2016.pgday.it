@@ -61,6 +61,10 @@ EVENT_PARTNERS = {
         'name': 'Interlogica',
         'url': 'http://interlogica.it',
         'logo': 'logo-interlogica.png',
+    }, {
+        'name': 'Esosphera',
+        'url': 'http://www.esosphera.com',
+        'logo': 'logo-esosphera.png',
     }],
     'gold': [],
     'silver': [{
