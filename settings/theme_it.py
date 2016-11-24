@@ -65,6 +65,10 @@ EVENT_PARTNERS = {
         'name': 'Esosphera',
         'url': 'http://www.esosphera.com',
         'logo': 'logo-esosphera.png',
+    }, {
+        'name': 'Miriade',
+        'url': 'http://www.miriade.it',
+        'logo': 'logo-miriade.png',
     }],
     'gold': [],
     'silver': [{
