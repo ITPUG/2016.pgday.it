@@ -46,7 +46,7 @@ VAT: 02099540979 / Tax Code: 92074760486
             'track': 'auditorium',
             'title': 'Keynote',
             'speakers': [
-                'TBA',
+                'Giorgio Roncolato',
             ]
         },
     ]),
