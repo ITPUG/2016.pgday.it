@@ -118,8 +118,10 @@ SCHEDULE = (
             'track': 'auditorium',
             'title': 'Keynote',
             'speakers': [
-                'TBA',
-            ]
+                'Giorgio Roncolato (Direttore Sistemi Informativi ULSS 5 di Arzignano)',
+            ],
+            'abstract': '''Il dott. Giorgio Roncolato è Direttore dei Sistemi Informativi della ULSS 5 di Arzignano (VI)
+            '''
         },
     ]),
     ('11:00', [
