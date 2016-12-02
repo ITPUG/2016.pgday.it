@@ -76,7 +76,11 @@ EVENT_PARTNERS = {
         'url': 'http://2ndquadrant.it',
         'logo': 'logo-2ndquadrant.png'
     }],
-    'media': [],
+    'media': [{
+        'name': 'GRUSP',
+        'url': 'http://www.grusp.org',
+        'logo': 'logo-grusp.png'
+    }],
 }
 
 SOCIAL_LINKS = [
