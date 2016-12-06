@@ -13,6 +13,7 @@ L'unica cena in Italia dove potrete parlare di database senza vergogna.
 Data l'ottima esperienza dell'anno scorso abbiamo deciso di proporre nuovamente
 il Camelot 3.0 (o LochNess) come location dell'evento.
 
-Se siete interessati a partecipare contattate un membro dello staff.
-Non c'e' bisogno di comprare nessun biglietto, ci mettiamo d'accordo direttamente
-il giorno della conferenza.
+Consultate la mappa qui: http://goo.gl/iryiaB
+
+Se siete interessati a partecipare, non c’è bisogno di comprare nessun biglietto:
+l'appuntamento è la sera prima della conferenza (lunedì 12/12) alle ore 20:00 al Camelot.

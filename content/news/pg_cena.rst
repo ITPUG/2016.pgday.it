@@ -15,6 +15,5 @@ il Camelot 3.0 (o LochNess) come location dell'evento.
 
 Consultate la mappa qui: http://goo.gl/iryiaB
 
-Se siete interessati a partecipare contattate un membro dello staff.
-Non c'e' bisogno di comprare nessun biglietto, ci mettiamo d'accordo direttamente
-il giorno della conferenza.
+Se siete interessati a partecipare, non c’è bisogno di comprare nessun biglietto:
+l'appuntamento è la sera prima della conferenza (lunedì 12/12) alle ore 20:00 al Camelot.
