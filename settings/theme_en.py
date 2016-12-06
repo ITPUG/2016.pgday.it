@@ -18,6 +18,15 @@ Stay tuned to get news and follow the progress.
         'primary': True
     },
 ],
+'SOCIAL_EVENTS':[
+    {
+        'title': 'pg_dinner',
+        'when': 'lunedi\' 12, ore 20:00',
+        'where': 'Camelot 3.0 (LochNess)',
+        'map': 'https://goo.gl/iryiaB',
+        'description': 'You can\'t lose the traditional PGDay dinner!',
+    }
+],
 'SITEURL': '/en',
 'EVENT_DATE': 'Tuesday, December 13',
 'EVENT_LOCATION': 'Camera di Commercio, Prato',

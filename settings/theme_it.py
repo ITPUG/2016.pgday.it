@@ -31,29 +31,17 @@ EVENT_CTA_BUTTONS = [
 COPYRIGHT = '''© Copyright 2008-2016 Italian PostgreSQL Users Group<br>
 Partita IVA: 02099540979 / Codice Fiscale: 92074760486
 '''
-'''
+
 SOCIAL_EVENTS = [
     {
-        'title': 'pg_birra',
-        'when': 'giovedi 16, ore 18:00',
-        'where': 'Camelot 3.0',
-        'map': 'https://www.google.it/maps',
-        'description': 'Una birra gentilmente offerta da carlo',
-    }, {
-        'title': 'pg_birra',
-        'when': 'venerdi 17, ore 18:00',
-        'where': 'Camelot 3.0',
-        'map': 'https://www.google.it/maps',
-        'description': 'Per bere in compagnia e parlare anche di Postgres',
-    }, {
         'title': 'pg_cena',
-        'when': 'venerdi 17 - 20:00',
-        'where': 'Pizzeria da Peppino',
-        'map': 'https://www.google.it/maps',
-        'description': 'Un menu\' per sfamare tutte le bocche, e si parla di Postgres',
+        'when': 'lunedi\' 12, ore 20:00',
+        'where': 'Camelot 3.0 (LochNess)',
+        'map': 'https://goo.gl/iryiaB',
+        'description': 'Non potete perdere l\'unica cena dove potete parlare di database senza vergogna',
     }
 ]
-'''
+
 
 EVENT_PARTNERS = {
     'diamond': [],
