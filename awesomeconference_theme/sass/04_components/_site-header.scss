@@ -21,6 +21,7 @@
 .site-cta {
     padding-top: $gutter * 2;
     text-align: center;
+    position: relative;
 
     .btn {
         margin-right: $gutter;
@@ -213,3 +214,13 @@
     }
 }
 
+.thank-message {
+    @include font-size(48);
+    @include transform(translateX(-50%));
+    font-weight: bold;
+    position: absolute;
+    top: 140px;
+    left: 50%;
+    color: $blue;
+    text-shadow: 0 3px rgba($black, .1);
+}
