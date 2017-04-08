@@ -151,8 +151,3 @@ Generare di nuovo il sito per controllare.
 Ricordarsi infine di aggiungere al repository sia i file sorgente
 (``.pot`` e ``.po``) sia i file compilati (``.mo``).
 
-
-### Contribuire sul frontend (stili css e template)
-
-TODO
-
