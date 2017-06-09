@@ -10,7 +10,7 @@ BRANDING_LINK = {
     'title': 'itpug',
     'image': 'logo-itpug.png',
 }
-EVENT_CLAIM = '''Stiamo lavorando per organizzare la decima
+EVENT_CLAIM = '''Stiamo lavorando per organizzare l'undicesima
 edizione del PGDay Italiano.<br>
 Torna a trovarci per rimanere aggiornato con gli sviluppi!
 '''
