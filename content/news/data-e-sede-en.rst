@@ -5,6 +5,7 @@ Date and location
 :slug: data-e-sede
 :author: ITPUG
 :lang: en
+:date: 08-09-2016 08:44
 
 We are absolutely delighted to officially announce the date and
 location of the **tenth** edition of the Italian PGDay:

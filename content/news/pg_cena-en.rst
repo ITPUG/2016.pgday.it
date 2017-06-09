@@ -5,6 +5,7 @@ PG Cena
 :slug: pg_cena
 :author: ITPUG
 :lang: en
+:date: 06-12-2016 13:00
 
 Anche quest'anno si svolgera' la tradizionale cena organizzata da ITPUG.
 

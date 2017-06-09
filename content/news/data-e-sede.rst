@@ -5,6 +5,7 @@ Data e sede
 :slug: data-e-sede
 :author: ITPUG
 :lang: it
+:date: 08-09-2016 08:44
 
 Siamo assolutamente lieti di annunciare la
 data e la sede ufficiali per quanto riguarda

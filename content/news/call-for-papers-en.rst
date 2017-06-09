@@ -4,6 +4,7 @@ Call for Papers is now open
 :slug: call-for-papers
 :author: ITPUG
 :lang: en
+:date: 12-09-2016 09:57:37
 
 .. image:: /images/papers.jpg
     :alt: Some papers
