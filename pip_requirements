@@ -3,6 +3,7 @@ blinker==1.4
 docutils==0.12
 ecdsa==0.13
 feedgenerator==1.8
+ghp-import==0.5.5
 htmlmin==0.1.10
 invoke==0.13.0
 Jinja2==2.8
