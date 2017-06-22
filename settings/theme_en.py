@@ -7,7 +7,7 @@ I18N_SUBSITES = {
 
 ## Translated settings
 'SITENAME': '2016 PGDay.IT',
-'EVENT_CLAIM': '''We are working hard to organize the 10th
+'EVENT_CLAIM': '''We are working hard to organize the 11th
 edition of PGDay.IT.<br>
 Stay tuned to get news and follow the progress.
 ''',
@@ -282,4 +282,3 @@ Il talk si propone di mettere in evidenza questo strumento, che con le modifiche
 
     }
 }
-
